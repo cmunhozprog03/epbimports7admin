@@ -1,1 +1,1 @@
-@include('layouts.dash')
+@extends('layouts.dash')

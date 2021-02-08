@@ -18,6 +18,12 @@
 
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+
+    <!-- W3cs -->
+    <link rel="stylesheet" href="{{asset('css/w3.css')}}">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="{{asset('css/styles.css')}}">
 </head>
 <body>
     <div id="app">
